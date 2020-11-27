@@ -1,0 +1,33 @@
+.text-align{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.login_div {
+    position: absolute;
+    
+    width: 500px;
+    height: 500px;
+    
+    /* Center form in page horizontally & vertically */
+    top: 30%;
+    left: 45%;
+    margin-top: -150px;
+    margin-left: -150px;
+}
+
+.position-register{
+    float: right;
+}
+
+.login_form {
+    width: 500px;
+    height: 250px;
+    
+    background:#e9ecef;
+    border-radius: 10px;
+    
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,40 @@
+.back{
+    font-size: 16px;
+    color: blue;
+}
+.button-reg{
+    padding-left: 45px;
+}
+.text-align{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.login_div {
+    position: absolute;
+    
+    width: 500px;
+    height: 500px;
+    
+    /* Center form in page horizontally & vertically */
+    top: 30%;
+    left: 45%;
+    margin-top: -150px;
+    margin-left: -150px;
+}
+
+.position-register{
+    width: 400px;
+}
+
+.login_form {
+    width: 500px;
+    height: 350px;
+    
+    background:#e9ecef;
+    border-radius: 10px;
+    
+    margin: 0;
+    padding: 0;
+}
